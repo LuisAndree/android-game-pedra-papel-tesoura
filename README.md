@@ -1,7 +1,3 @@
-Claro! Aqui está uma descrição detalhada para o projeto "Pedra, Papel e Tesoura" que permite jogar contra a máquina:
-
----
-
 ## Pedra-Papel-Tesoura (Android)
 
 ### Descrição
