@@ -6,7 +6,6 @@ O projeto `Pedra-Papel-Tesoura` é um aplicativo de jogo para Android que implem
 ### Funcionalidades
 - **Modo Solo**: Jogue contra a máquina.
 - **Interface Intuitiva**: Design de interface de usuário amigável e responsiva.
-- **Animações e Efeitos**: Animações suaves e efeitos sonoros para melhorar a experiência de jogo.
 
 ### Tecnologias Utilizadas
 - **Linguagem**: Java
