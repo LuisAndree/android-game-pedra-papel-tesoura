@@ -20,6 +20,10 @@ O projeto `Pedra-Papel-Tesoura` é um aplicativo de jogo para Android que implem
 3. **Compile e execute o aplicativo** em um emulador ou dispositivo Android conectado.
 
 ### Capturas de Tela
+![Screenshot_1](https://github.com/LuisAndree/android-game-pedra-papel-tesoura/assets/73355463/ab27975c-ae9e-4f4d-b360-1a246cebb9e9)
 
+![Screenshot_2](https://github.com/LuisAndree/android-game-pedra-papel-tesoura/assets/73355463/9a828dea-1d69-432a-932f-7f0b8fc5c879)
+
+![Screenshot_3](https://github.com/LuisAndree/android-game-pedra-papel-tesoura/assets/73355463/462e6e02-bc7f-49fa-84e4-9ac0e49a31ef)
 
 ---
