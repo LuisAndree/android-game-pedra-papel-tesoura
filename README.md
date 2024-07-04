@@ -17,7 +17,7 @@ O projeto `Pedra-Papel-Tesoura` é um aplicativo de jogo para Android que implem
     git clone https://github.com/seu-usuario/android-pedra-papel-tesoura.git
     ```
 2. **Abra o projeto no Android Studio**.
-3. **Compile e execute o aplicativo** em um emulador ou dispositivo Android conectado.
+3. **Compile e execute o aplicativo** em um emulador ou dispositivo Android.
 
 ### Capturas de Tela
 ![Screenshot_1](https://github.com/LuisAndree/android-game-pedra-papel-tesoura/assets/73355463/ab27975c-ae9e-4f4d-b360-1a246cebb9e9)
